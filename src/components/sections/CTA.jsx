@@ -114,13 +114,13 @@ export const CTA = () => {
                   <div className="text-primary-foreground font-medium">info@daaccretion.in</div>
                 </div>
               </a>
-              <a href="tel:+919876543210" className="flex items-center gap-4 hover:opacity-80 transition-opacity">
+              <a href="tel:+919624110441" className="flex items-center gap-4 hover:opacity-80 transition-opacity">
                 <div className="w-12 h-12 rounded-lg bg-primary-foreground/10 flex items-center justify-center">
                   <Phone className="w-5 h-5 text-secondary" />
                 </div>
                 <div>
                   <div className="text-sm text-primary-foreground/60">Call Us</div>
-                  <div className="text-primary-foreground font-medium">+91 98765 43210</div>
+                  <div className="text-primary-foreground font-medium">+91 96241 10441</div>
                 </div>
               </a>
               <div className="flex items-center gap-4">
